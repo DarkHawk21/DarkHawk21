@@ -11,8 +11,6 @@ Conversational AI · Digital Transformation · Senior Full Stack Engineer
 
 </div>
 
----
-
 ## Sobre mí
 
 Ingeniero en Computación con más de 7 años de experiencia diseñando, desarrollando y liderando soluciones de software escalables para empresas y plataformas de alto impacto.

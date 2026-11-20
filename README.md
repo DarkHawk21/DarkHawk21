@@ -2,7 +2,7 @@
 
 ![Enrique Carranza | DarkHawk21](./Enrique_Carranza_Github.png)
 
-# Software Architect & Tech Lead
+<h1 style="border: none;">Software Architect & Tech Lead</h1>
 
 Conversational AI · Digital Transformation · Senior Full Stack Engineer
 
@@ -20,8 +20,6 @@ He participado en la construcción de sistemas empresariales, automatizaciones, 
 Me especializo en arquitectura de software, automatización de procesos, inteligencia artificial conversacional y transformación digital, colaborando tanto en la toma de decisiones técnicas como en la definición de estrategias orientadas a negocio.
 
 Lidero equipos, coordino proyectos, participo en la definición de arquitectura y colaboro directamente con stakeholders, áreas de negocio y dirección para transformar necesidades operativas en soluciones tecnológicas reales y escalables.
-
----
 
 ## Stack tecnológico
 
@@ -49,9 +47,7 @@ Lidero equipos, coordino proyectos, participo en la definición de arquitectura 
 
 </div>
 
----
-
-### Principios que guían mi trabajo
+## Principios que guían mi trabajo
 
 - **Simplicidad antes que complejidad innecesaria.**
 - **Mantenibilidad antes que soluciones temporales.**
@@ -60,12 +56,9 @@ Lidero equipos, coordino proyectos, participo en la definición de arquitectura 
 - **Decisiones técnicas alineadas con los objetivos del negocio.**
 - **Mejora continua mediante colaboración y transferencia de conocimiento.**
 
----
-
+## Actividad en GitHub
 
 <div align="center">
-
-### Actividad en GitHub
 
 ![Racha de contribuciones](https://streak-stats.demolab.com?user=darkhawk21&theme=github-dark-blue&hide_border=true)
 

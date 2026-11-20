@@ -1,7 +1,5 @@
 <div align="center">
 
-![Enrique Carranza | DarkHawk21](./Enrique_Carranza_Github.png)
-
 # Software Architect & Tech Lead
 
 Conversational AI · Digital Transformation · Senior Full Stack Engineer

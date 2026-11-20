@@ -1,5 +1,7 @@
 <div align="center">
 
+![Enrique Carranza | DarkHawk21](./Enrique_Carranza_Github.png)
+
 # Software Architect & Tech Lead
 
 Conversational AI · Digital Transformation · Senior Full Stack Engineer
@@ -13,24 +15,13 @@ Conversational AI · Digital Transformation · Senior Full Stack Engineer
 
 ## Sobre mí
 
-Soy **Enrique Carranza**, Arquitecto de Software y Líder Técnico, con **más de 7 años de experiencia** en ingeniería de software, desarrollo Full Stack y soluciones tecnológicas.
+Ingeniero en Computación con más de 7 años de experiencia diseñando, desarrollando y liderando soluciones de software escalables para empresas y plataformas de alto impacto.
 
-Me enfoco en diseñar arquitecturas escalables, liderar iniciativas técnicas y desarrollar soluciones que respondan a necesidades reales del negocio.
+He participado en la construcción de sistemas empresariales, automatizaciones, integraciones, bots conversacionales con IA y arquitecturas backend/frontend capaces de procesar grandes volúmenes de información y soportar operaciones críticas.
 
-Combino experiencia práctica en desarrollo de software con una visión arquitectónica, liderazgo técnico y especialización en automatización inteligente.
+Me especializo en arquitectura de software, automatización de procesos, inteligencia artificial conversacional y transformación digital, colaborando tanto en la toma de decisiones técnicas como en la definición de estrategias orientadas a negocio.
 
----
-
-## Áreas de especialización
-
-| Área | Enfoque |
-|:---|:---|
-| **Arquitectura de Software** | Diseño de Sistemas, Modularidad, Escalabilidad, Mantenibilidad |
-| **Liderazgo Técnico** | Estrategia Técnica, Code Reviews, Mentoría, Buenas Prácticas |
-| **Ingeniería Backend** | APIs REST, Lógica de Negocio, Integraciones |
-| **Ingeniería Frontend** | Arquitectura de Componentes, Aplicaciones Web, Experiencia de Usuario |
-| **IA Conversacional** | Sistemas Conversacionales, Automatización Inteligente, Diseño de Flujos |
-| **Transformación Digital** | Automatización de Procesos, Integración de Sistemas, Eficiencia Operativa |
+Lidero equipos, coordino proyectos, participo en la definición de arquitectura y colaboro directamente con stakeholders, áreas de negocio y dirección para transformar necesidades operativas en soluciones tecnológicas reales y escalables.
 
 ---
 

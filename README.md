@@ -1,62 +1,85 @@
-<h1 align="center">
-    Hello!
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-  
-![Enrique Carranza](./Enrique_Carranza_Github.png)
-
-<div id="header" align="center">
-    <div id="badges">
-        <a href="https://www.youtube.com/channel/UCdJGbm8DEnTL37F9m6R6ChQ/" target="_blank">
-            <img alt="YouTube" src="https://img.shields.io/badge/youtube-blue?style=for-the-badge&logo=youtube&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/enriquecb21/">
-            <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-        </a>
-        <a href="https://www.instagram.com/darkhawk.dev/" target="_blank">
-            <img alt="Instagram" src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-        <a href="https://darkhawk21.com/" target="_blank">
-            <img alt="Website" src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=world&logoColor=white" />
-        </a>
-    </div>
-</div>
-
----
-### :man_technologist: About me:
-
-```js
-import SoftwareEngineer from 'enriqueCarranza';
-
-class Bio extends SoftwareEngineer {
-    name: 'Enrique Carranza',
-    pronouns: "he" | "him",
-    passions: [
-        'Software development',
-        'Software Architecture',
-        'Fullstack developer',
-        'Programming mentor'
-    ],
-    title: 'Software Engineer',
-    grade: 'Computer engineer',
-    company: 'KeyPro | Remote',
-    location: 'Mexico'
-}
-
-class Skills extends SoftwareEngineer {
-    languages: [JavaScript, TypeScript, HTML5, CSS3, PHP, PYTHON, JAVA, NodeJS],
-    databases: ['MySQL', 'MongoDB', 'Firebase', 'SQLServer'],
-    frontendFrameworks: ['VueJS', 'ReactJS', 'AngularJS'],
-    backendFrameworks: ['Laravel', 'ExpressJS', 'DJango'],
-    others: ['WordPress', 'ElectronJS', 'SASS', 'TailwindCSS']
-}
-```
----
-
-### :fire: My Stats :
-<div align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhawk21" width="600"/>
-</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhawk21&layout=compact" width="600"/>
+
+![Enrique Carranza | DarkHawk21](./Enrique_Carranza_Github.png)
+
+# Software Architect & Tech Lead
+
+Conversational AI · Digital Transformation · Senior Full Stack Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/enriquecb21/)
+[![Sitio Web](https://img.shields.io/badge/Sitio_Web-112D4E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zentusx.com/)
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy **Enrique Carranza**, Arquitecto de Software y Líder Técnico, con **más de 7 años de experiencia** en ingeniería de software, desarrollo Full Stack y soluciones tecnológicas.
+
+Me enfoco en diseñar arquitecturas escalables, liderar iniciativas técnicas y desarrollar soluciones que respondan a necesidades reales del negocio.
+
+Combino experiencia práctica en desarrollo de software con una visión arquitectónica, liderazgo técnico y especialización en automatización inteligente.
+
+---
+
+## Áreas de especialización
+
+| Área | Enfoque |
+|:---|:---|
+| **Arquitectura de Software** | Diseño de Sistemas, Modularidad, Escalabilidad, Mantenibilidad |
+| **Liderazgo Técnico** | Estrategia Técnica, Code Reviews, Mentoría, Buenas Prácticas |
+| **Ingeniería Backend** | APIs REST, Lógica de Negocio, Integraciones |
+| **Ingeniería Frontend** | Arquitectura de Componentes, Aplicaciones Web, Experiencia de Usuario |
+| **IA Conversacional** | Sistemas Conversacionales, Automatización Inteligente, Diseño de Flujos |
+| **Transformación Digital** | Automatización de Procesos, Integración de Sistemas, Eficiencia Operativa |
+
+---
+
+## Stack tecnológico
+
+<div align="center">
+
+### Lenguajes de programación
+
+![Lenguajes](https://skillicons.dev/icons?i=ts,js,python,php,java,html,css)
+
+### Desarrollo Frontend
+
+![Frontend](https://skillicons.dev/icons?i=react,vue,angular,tailwind,sass)
+
+### Desarrollo Backend
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,laravel,django)
+
+### Bases de datos
+
+![Bases de datos](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
+
+### Cloud, DevOps y herramientas
+
+![Herramientas](https://skillicons.dev/icons?i=aws,docker,git,github,vscode)
+
+</div>
+
+---
+
+### Principios que guían mi trabajo
+
+- **Simplicidad antes que complejidad innecesaria.**
+- **Mantenibilidad antes que soluciones temporales.**
+- **Escalabilidad basada en necesidades reales.**
+- **Seguridad y confiabilidad desde el diseño.**
+- **Decisiones técnicas alineadas con los objetivos del negocio.**
+- **Mejora continua mediante colaboración y transferencia de conocimiento.**
+
+---
+
+
+<div align="center">
+
+### Actividad en GitHub
+
+![Racha de contribuciones](https://streak-stats.demolab.com?user=darkhawk21&theme=github-dark-blue&hide_border=true)
+
 </div>
